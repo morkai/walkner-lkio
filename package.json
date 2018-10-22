@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "walkner-lkio",
+  "version": "0.1.0",
+  "description": "LK3 I/O reader.",
+  "license": "CC BY-NC-SA 4.0",
+  "homepage": "https://github.com/morkai/walkner-lkio",
+  "author": {
+    "name": "Łukasz Walukiewicz",
+    "email": "lukasz@miracle.systems",
+    "url": "http://miracle.systems/"
+  },
+  "bugs": "https://github.com/morkai/walkner-lkio/issues",
+  "repository": {
+    "type": "git",
+    "url":  "http://github.com/morkai/walkner-lkio.git"
+  },
+  "engines": {
+    "node": ">=10.x.x"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+
+  }
+}
